@@ -1,4 +1,4 @@
-![image](https://user-images.githubusercontent.com/107243169/175610483-37652b46-fde9-4f04-9809-b424b9754acb.png)
+![image](https://user-images.githubusercontent.com/107243169/175669943-f19bc87f-e64f-4401-b373-123d7ecd6222.png)
 
 # Flappy_Bird_NEAT-AI
  The classic Flappy Bird game remade and with a neural network based on reward points.
