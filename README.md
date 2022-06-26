@@ -12,7 +12,7 @@
 
 
 # Notes
- after download you must follow some steps to make this done1
+ after download you must follow some steps to make this done:
 
 ### Windows
 
