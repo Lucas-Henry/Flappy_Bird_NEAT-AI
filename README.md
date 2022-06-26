@@ -17,7 +17,7 @@
 ### Windows
 
 1. Install python 3.10 or latest. You can do this in [here](https://www.python.org/downloads/)
-2. Download follow dependencies:
+2. Download the follow dependencies:
   ```
   pip install pygame
   ```
@@ -31,7 +31,7 @@
 
 1. Check if your dependencies is updated
 
-2. Download follow dependencies:
+2. Download the follow dependencies:
   ```
   pip install pygame
   ```
