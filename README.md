@@ -17,7 +17,7 @@
 ### Windows
 
 1. Install python 3.10 or latest. You can do this in [here](https://www.python.org/downloads/)
-2. Download the follow dependencies:
+2. Download the follow dependencies in your terminal:
   ```
   pip install pygame
   ```
@@ -25,13 +25,13 @@
   ```
   pip install neat-python
   ```
-3. Open your code editor/ IDE and run 
+3. Open FlappyBird.py on your code editor/ IDE and run 
 
 ### Linux / Mac Os
 
 1. Check if your dependencies is updated
 
-2. Download the follow dependencies:
+2. Download the follow dependencies in your terminal:
   ```
   pip install pygame
   ```
@@ -39,7 +39,7 @@
   ```
   pip install neat-python
   ```
-3. Open your code editor/ IDE and run
+3. Open FlappyBird.py on your code editor/ IDE and run 
 
 
 
